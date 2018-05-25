@@ -1,9 +1,10 @@
+<?xml version="2.0" encoding="utf-8" ?>
 <litepal>
     <dbname value="cool_weather"/>
     <version value="1"/>
     <list>
-        <mappint class="com.ccwonline.coolweather.db.Province"/>
-        <mappint class="com.ccwonline.coolweather.db.City"/>
-        <mappint class="com.ccwonline.coolweather.db.County"/>
+        <mapping class="com.ccwonline.coolweather.db.Province"/>
+        <mapping class="com.ccwonline.coolweather.db.City"/>
+        <mapping class="com.ccwonline.coolweather.db.County"/>
     </list>
 </litepal>
